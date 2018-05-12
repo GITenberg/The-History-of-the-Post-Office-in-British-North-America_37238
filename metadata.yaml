@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '43765'
     url: http://www.gutenberg.org/2009/agents/43765
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37238#The-History-of-the-Post-Office-in-British-North-America
 gutenberg_issued: '2011-08-29'
 gutenberg_type: Text
 identifiers:
