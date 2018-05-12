@@ -1,0 +1,28 @@
+_repo: The-History-of-the-Post-Office-in-British-North-America_37238
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, William
+    birthdate: 1859
+    gutenberg_agent_id: '43765'
+    url: http://www.gutenberg.org/2009/agents/43765
+description: ''
+gutenberg_issued: '2011-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37238'
+  lccn: '21003480'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Postal service -- Canada -- History'
+- !lcsh 'Canada. Post Office Department'
+- !lcsh 'Postal service -- Great Britain -- Colonies'
+- !lcc 'HE'
+title: The History of the Post Office in British North America
+url: http://www.gutenberg.org/ebooks/37238
